@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.emlioms.mycaddie",
+      "sha256_cert_fingerprints":
+        ["CB:D0:73:05:44:B4:1F:3D:1B:62:5A:1E:46:39:E0:46:1B:B5:26:91:AC:05:E3:43:88:FE:52:0F:FA:AA:7B:21"]
+    }
+  }
+]
